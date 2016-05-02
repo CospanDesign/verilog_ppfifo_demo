@@ -1,0 +1,72 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Mon May  2 17:13:55 2016
+[*]
+[dumpfile] "/home/cospan/Projects/verilog_ppfifo_demo/cocotb/design.vcd"
+[dumpfile_mtime] "Mon May  2 17:08:00 2016"
+[dumpfile_size] 143473
+[savefile] "/home/cospan/Projects/verilog_ppfifo_demo/cocotb/waveforms.gtkw"
+[timestart] 0
+[size] 1888 789
+[pos] -3 -1
+*-21.451616 1739000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_ppfifo.
+[sst_width] 210
+[signals_width] 232
+[sst_expanded] 1
+[sst_vpaned_height] 208
+@28
+tb_ppfifo.clk
+tb_ppfifo.rd_clk
+tb_ppfifo.rst
+@200
+-
+@800200
+-Source
+@28
+tb_ppfifo.source.clk
+tb_ppfifo.source.i_enable
+@200
+-
+@28
+tb_ppfifo.source.i_wr_rdy[1:0]
+tb_ppfifo.source.o_wr_act[1:0]
+@200
+-
+@28
+tb_ppfifo.source.o_wr_stb
+@22
+tb_ppfifo.source.o_wr_data[31:0]
+@200
+-
+@22
+tb_ppfifo.source.i_wr_size[23:0]
+tb_ppfifo.source.r_count[23:0]
+@1000200
+-Source
+@200
+-
+@800200
+-Sink
+@28
+tb_ppfifo.sink.clk
+@200
+-
+@28
+tb_ppfifo.sink.i_rd_rdy
+tb_ppfifo.sink.o_rd_act
+@200
+-
+@29
+tb_ppfifo.sink.o_rd_stb
+@22
+tb_ppfifo.sink.i_rd_data[31:0]
+@200
+-
+@22
+tb_ppfifo.sink.i_rd_size[23:0]
+tb_ppfifo.sink.r_count[23:0]
+@1000200
+-Sink
+[pattern_trace] 1
+[pattern_trace] 0
