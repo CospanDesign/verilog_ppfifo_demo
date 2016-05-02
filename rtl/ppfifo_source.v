@@ -1,4 +1,4 @@
-/* Module: ppfifo_data_generator
+/* Module: ppfifo_source
  *
  * Description: Populate a Ping Pong FIFO with an incrementing number pattern
  */

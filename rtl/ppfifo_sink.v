@@ -1,4 +1,4 @@
-/* Module: ppfifo_data_sink
+/* Module: ppfifo_sink
  *
  * Description: Whenever data is available within the FIFO activate it and read it all
  */
